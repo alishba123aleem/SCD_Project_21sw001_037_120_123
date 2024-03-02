@@ -327,3 +327,12 @@ header.sticky{
     transform: scale(1.3);
 }
 
+.end-text{
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+.end-text p{
+    color: black;
+    text-transform: capitalize;
+}

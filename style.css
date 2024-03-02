@@ -263,3 +263,8 @@ header.sticky{
     text-transform: capitalize;
     font-weight: 500;
 }
+.cart h4{
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+}

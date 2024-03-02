@@ -246,3 +246,9 @@ header.sticky{
     margin-bottom: 30px;
 }
 
+.cart img{
+    width: 380px;
+    height: auto;
+    border-radius: 5px;
+    
+}

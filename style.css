@@ -221,7 +221,13 @@ header.sticky{
     border-radius: 50px;
     margin: 10px 0;
 }
-
+.reviews p{
+    color: #707070;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-bottom: 10px;
+}
 
 
 

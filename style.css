@@ -19,7 +19,7 @@ justify-content: space-between;
 padding: 20px 10%;
 }
 .logo img{
-    max-width: 120px;
+    max-width: 300px;
     height: auto;
 }
 .navmenu{
@@ -33,3 +33,32 @@ padding: 20px 10%;
     font-weight: 400;
     transition: all .42s ease;
 }
+.nav-icon{
+    display: flex;
+    align-items: center;
+
+}
+.nav-icon i{
+    margin-right: 20px;
+    color: indianred;
+    font-size: 25px;
+    font-weight: 400;
+    transition: all .42 ease;
+}
+.nav-icon i:hover{
+    transform: scale(1.1);
+    color: darkred;
+
+}
+#menu-icon{
+    font-size: 35px;
+    color: indianred;
+    z-index: 10001;
+    cursor: pointer;
+}
+
+
+
+
+
+

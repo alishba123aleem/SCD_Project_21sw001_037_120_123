@@ -26,7 +26,7 @@ padding: 20px 10%;
     display: flex;
 }
 .navmenu a{
-    color: white;
+    color: maroon;
     font-size: 16px;
     text-transform: capitalize;
     padding: 20px 25px;
@@ -40,7 +40,7 @@ padding: 20px 10%;
 }
 .nav-icon i{
     margin-right: 25px;
-    color: white;
+    color: maroon;
     font-size: 25px;
     font-weight: 400;
     transition: all .42 ease;

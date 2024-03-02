@@ -250,5 +250,10 @@ header.sticky{
     width: 380px;
     height: auto;
     border-radius: 5px;
-    
+
+}
+.update-cart{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(380px, auto));
+    gap: 1rem;
 }

@@ -158,7 +158,7 @@ header.sticky{
 }
 .row img{
     width: 100%;
-    height: 100%;
+    height: 70%;
     transition: all .40s;
 }
 .row img:hover{

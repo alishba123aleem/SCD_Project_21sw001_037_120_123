@@ -268,3 +268,11 @@ header.sticky{
     font-size: 18px;
     font-weight: 600;
 }
+.cart p{
+    color: #707070;
+    font-size: 15px;
+    max-width: 380px;
+    line-height: 25px;
+    margin-bottom: 12px;
+    
+}
